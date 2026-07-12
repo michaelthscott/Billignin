@@ -1,0 +1,1 @@
+Alice Toklasfor almost 23 years it sat on a Kentucky library shelf without so much as a single check out - then for a further 12 years in second-hand limboit rekindled an interest in Gertrude Stein for me
