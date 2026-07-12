@@ -1,0 +1,8 @@
+title: Billignin
+description: A journey to Belley and Culoz to see where Gertrude Stein and Alice B. Toklas walked their dogs.
+author: Michael T. H. Scott
+theme: minima
+baseurl: /Billignin
+collections:
+  Billignin:
+    output: true
