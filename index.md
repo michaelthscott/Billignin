@@ -1,1 +1,5 @@
----layout: defaulttitle: Billignin---{% include series-list.html collection="Billignin" %}
+---
+layout: default
+title: Billignin
+---
+{% include series-list.html collection="Billignin" %}
